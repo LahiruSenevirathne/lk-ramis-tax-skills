@@ -1,0 +1,5 @@
+{"source": "Sample Finance PLC", "document": "Confirmation of Account Balances (synthetic)", "as_at": "2026-03-31",
+ "deposits": [
+  {"institution": "Sample Finance PLC", "account": "200000000001", "kind": "term", "currency": "LKR", "interest": 30000.00, "ait": 3000.00, "balance": 500000.00, "amount_invested": 500000.00},
+  {"institution": "Sample Finance PLC", "account": "200000000002", "kind": "foreign_currency", "product": "PFCA", "currency": "USD", "interest": 10.00, "ait": 0, "balance": 100.00, "fx_rate": 300.0, "fx_source": "CBSL TT buying"}
+ ]}

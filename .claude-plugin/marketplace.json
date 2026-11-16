@@ -1,0 +1,25 @@
+{
+  "name": "lk-ramis",
+  "description": "Claude skills for filing a Sri Lankan RAMIS individual income tax return: AIT/WHT interest certificates, CSE shares and dividends, bank balances, liabilities and property, and a final review. Human approval at every step.",
+  "owner": {
+    "name": "LahiruSenevirathne"
+  },
+  "plugins": [
+    {
+      "name": "lk-ramis-tax-skills",
+      "source": "./",
+      "description": "Unofficial helpers for the Sri Lankan RAMIS IIT return: getting started, Schedule 7A interest (AIT/WHT), CSE shares/dividends/disposals, bank balances/liabilities/property, and a read-only final review.",
+      "category": "productivity",
+      "keywords": [
+        "sri-lanka",
+        "tax",
+        "ramis",
+        "ird",
+        "wht",
+        "ait",
+        "cse",
+        "cds"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+ CDS monthly statement (synthetic)
+ 1. A monthly statement is issued to all active account holders.
+ ALPHA BANK-ABC.N0000 50
+ 18-MAR-2025 Direct Deposit - ABC250001S2 2 52
+ 31-MAR-2025 Balance C/F 52
+ EXAMPLE HOLD-XYZ.N0000 100

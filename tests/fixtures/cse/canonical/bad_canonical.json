@@ -1,0 +1,2 @@
+{"trades": [{"date": "01/08/2025", "side": "BUY", "code": "QRS", "name": "X", "qty": "40", "net": 1}],
+ "dividends": [{"date": "2025-10-01", "company": "X", "code_root": "QRS", "gross": 20, "ait": 3, "net": 18}]}

@@ -1,0 +1,5 @@
+{"documents": [], "problems": [], "rows": [
+ {"account": "200000000001", "amount_received": 20000.00, "ait": 2000.00},
+ {"account": "200000000001", "amount_received": 10000.00, "ait": 1000.00},
+ {"account": "100000000001", "amount_received": 400.00, "ait": 40.00}
+]}

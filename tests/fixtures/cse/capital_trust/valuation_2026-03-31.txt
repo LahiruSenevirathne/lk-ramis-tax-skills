@@ -1,0 +1,10 @@
+ Example Securities (Private) Limited
+ Portfolio Valuation as at 31/03/2026
+ Client A/C NO : XXX-000000-LI/00
+EQUITY
+Security Code Security Name                Unsettled  Unsettled  Cleared  Portfolio  Pledged   VWA     Portfolio Value
+                                             Buy Qty   Sell Qty  Balance  Balance    Qty       Price
+XYZ.N0000   EXAMPLE HOLDINGS PLC                 0          0      300      300       0      12.00        3,600.00
+                                                                                         Total             3,600.00
+DEBT
+ Total Portfolio 0.00

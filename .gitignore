@@ -1,0 +1,38 @@
+# Never commit real tax documents or outputs
+*.pdf
+*.xlsx
+*.csv
+work/
+output/
+FY*/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# OS
+.DS_Store
+
+# Local Claude Code settings (machine-specific paths)
+.claude/settings.local.json
+
+# Personal working notes and session handoffs (keep outside the repo)
+HANDOFF*.md
+notes/
+
+# Real tax data that might end up here by accident
+*.PDF
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.docx
+ramis-snapshot*.json
+filing-plan.md
+Tax-Sri-Lanka/
+YA-*/
+
+# The plugin icon is the one image that belongs in the repo
+!.claude-plugin/icon.png

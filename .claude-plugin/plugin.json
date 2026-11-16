@@ -1,0 +1,32 @@
+{
+  "name": "lk-ramis-tax-skills",
+  "version": "0.4.3",
+  "description": "Unofficial, community helpers for filing a Sri Lankan individual income tax return in the IRD's RAMIS system: a getting-started guide, AIT/WHT interest certificates to Schedule 7A, CSE shares/dividends/disposals, bank balances/liabilities/property, and a read-only final review with a supporting-documents checklist. Runs locally; human approval at every step; never signs in, saves or submits.",
+  "author": {
+    "name": "LahiruSenevirathne",
+    "url": "https://github.com/LahiruSenevirathne"
+  },
+  "license": "MIT",
+  "keywords": [
+    "sri-lanka",
+    "tax",
+    "ramis",
+    "wht",
+    "ait",
+    "ird",
+    "cse",
+    "cds",
+    "shares",
+    "dividends",
+    "liabilities",
+    "bank-balances"
+  ],
+  "homepage": "https://github.com/LahiruSenevirathne/lk-ramis-tax-skills",
+  "repository": "https://github.com/LahiruSenevirathne/lk-ramis-tax-skills",
+  "displayName": "LK Tax Return Helper (unofficial, for RAMIS)",
+  "icon": "./.claude-plugin/icon.png",
+  "privacyPolicyUrl": "https://github.com/LahiruSenevirathne/lk-ramis-tax-skills/blob/main/PRIVACY.md",
+  "supportUrl": "https://github.com/LahiruSenevirathne/lk-ramis-tax-skills/issues",
+  "documentationUrl": "https://github.com/LahiruSenevirathne/lk-ramis-tax-skills#readme",
+  "termsOfServiceUrl": "https://github.com/LahiruSenevirathne/lk-ramis-tax-skills/blob/main/LICENSE"
+}

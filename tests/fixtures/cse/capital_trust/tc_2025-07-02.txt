@@ -1,0 +1,7 @@
+                          TRADE CONFIRMATION
+Transaction Date : 02/07/2025
+Sale of ALPHA BANK PLC ( ABC.N0000 / LK0000N00002 )
+02/07/2025  20250700001        52    120.00    6,240.00    39.94   4.49   5.24   1.50   18.72    6,170.11  04/07/2025   0.00
+ Total                          52  118.6560    6,240.00    39.94   4.49   5.24   1.50   18.72    6,170.11               0.00
+Purchase Total                    0.00
+Sales Total                   6,170.11

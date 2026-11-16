@@ -1,0 +1,35 @@
+                                                Certificate No / Serial No :-BC/01-APR-25/31-MAR-26/99999999
+
+                                                                                    Ref No. - 0000000000000
+                                                                           Withholding Agent TIN: 134008059
+
+09-Nov-2026
+
+Dear Sir / Madam,
+
+Certificate of Advance Income Tax (AIT) Deduction
+
+Name and address of the Bank/Financial Institution: Nations Trust Bank, 242 Union Place, Colombo 02.
+
+Name and address of the Deposit Holder :- Mr. Example Depositor,
+1 Sample Road, Colombo.
+
+Interest/Discount paid for Period :from: 01/04/2025 to 31/03/2026
+
+Gross amount of Interest/Discount (LKR): 12,345.67 (Excluding Accounts other than in LKR)
+
+
+Accoun Account                            Currenc Interest /Discount   AIT Amount of     Net Interest
+t Type Number                             y Code Amount Subject to AIT Rate AIT Deducted /Discount Paid
+                         Mr.
+Saving 20000000000
+                         Example          LKR        2,345.67                10%   234.57         2,111.10
+Account 1
+                         Mr.
+Fixed   30000000000
+                         Example          LKR       10,000.00                10% 1,000.00         9,000.00
+Deposit 1
+Above Deducted AIT has paid to the Commissioner General of Inland Revenue as Follows.
+
+   Cheque /Auto Payment Receipt No.                       Date of Payment
+   500000000001                                           14-OCT-25

@@ -1,0 +1,27 @@
+                                       Certificate of Advance Income Tax Deduction
+
+
+Withholding Agent TIN:                                                      134001194
+Name & Address of the Bank:                                                 Sampath Bank PLC
+                                                                            No.110, Sir James Pieris Mawatha, Colombo 10
+Name of the Depositor:                                                      Mr. E Depositor
+Address of the Depositor:                                                   1 Sample Road
+                                                                            Colombo
+NIC No./Passport No./Business Registration No.:                             000000000V
+Tax Identification No.:
+Account Number:                                                             100000000001
+Interest Paid for the Period.:                                              From 01-04-2025 to 31-03-2026
+
+
+
+Transaction     AIT       Gross Interest       Amount of AIT          Net Interest (Rs.)      Cheque       Paid Date              Certificate No
+   Date         Rate          (Rs.)               (Rs.)                                         No
+                 (%)
+ 20-04-2025     10.00                 100.00                 10.00                  90.00     100001       15-05-2025        310000000000000000001
+ 20-05-2025     10.00               1,250.50                125.05               1,125.45     100002       12-06-2025        310000000000000000002
+ 20-03-2026     10.00                  49.99                  5.00                  44.99     100003       10-04-2026        310000000000000000003
+    Total                           1,400.49                140.05               1,260.44
+
+
+                                 Deducted AIT has paid to the Commissioner General of Inland Revenue.
+                                    This is a computer-generated certificate. Signature is not required

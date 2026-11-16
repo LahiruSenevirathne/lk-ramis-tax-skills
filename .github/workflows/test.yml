@@ -1,0 +1,21 @@
+name: test
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: sudo apt-get update && sudo apt-get install -y qpdf poppler-utils
+      - run: pip install -r requirements.txt pytest
+      - run: python tools/check_fixtures.py
+      - run: python -m pytest -q
+      - run: node --check skills/sl-wht-ramis/scripts/ramis_fill.js
+      - run: node --check skills/sl-cse-stocks-ramis/scripts/ramis_stocks_fill.js
+      - run: node --check skills/sl-bank-liabilities-ramis/scripts/ramis_statement_fill.js
+      - run: node --check skills/sl-ramis-iit-finalize/scripts/ramis_snapshot.js
+      - run: bash -n skills/sl-wht-ramis/scripts/unlock_pdfs.sh
+      - run: bash -n skills/sl-bank-liabilities-ramis/scripts/unlock_pdfs.sh
+      - run: bash -n skills/sl-cse-stocks-ramis/scripts/unlock_pdfs.sh

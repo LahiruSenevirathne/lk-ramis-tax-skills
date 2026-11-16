@@ -1,0 +1,10 @@
+{
+  "source": "Example Finance PLC",
+  "note": "Synthetic. Rows Claude would hand-write from a certificate whose layout has no parser.",
+  "rows": [
+    {"source_type": "Fixed deposit interest", "agent_tin": "100000000", "agent_name": "Example Finance PLC",
+     "certificate_no": "EFP/2025/000001", "account": "900000000001", "amount_received": 5000.00,
+     "ait": 500.00, "ait_rate_pct": 10, "net_paid": 4500.00, "interest_date": "2025-09-30",
+     "ird_paid_date": "2025-10-15", "period_from": "2025-09-01", "period_to": "2025-09-30"}
+  ]
+}

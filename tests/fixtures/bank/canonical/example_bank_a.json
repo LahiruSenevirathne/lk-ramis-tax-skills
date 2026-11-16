@@ -1,0 +1,16 @@
+{"source": "Example Bank PLC", "document": "Confirmation of Balances (synthetic)", "letter_date": "2026-11-01", "as_at": "2026-03-31",
+ "deposits": [
+  {"institution": "Example Bank PLC", "account": "100000000001", "kind": "savings", "currency": "LKR", "interest": 500.00, "ait": 50.00, "balance": 100000.00},
+  {"institution": "Example Bank PLC", "account": "100000000002", "kind": "current", "currency": "LKR", "interest": 0, "ait": 0, "balance": 0}
+ ],
+ "loans": [
+  {"institution": "Example Bank PLC", "loan_no": "400000000001", "loan_type": "housing loan", "date_granted": "2026-01-15",
+   "currency": "LKR", "amount_granted": 1000000.00, "amount_released": 900000.00, "outstanding": 880000.00,
+   "interest_paid": 15000.00, "principal_repaid": 20000.00, "security": "Mortgage of 1 Sample Road, Colombo"},
+  {"institution": "Example Bank PLC", "loan_no": "400000000002", "loan_type": "personal loan", "date_granted": "2024-06-01",
+   "currency": "LKR", "amount_granted": 500000.00, "outstanding": 300000.00, "principal_repaid": 150000.00, "interest_paid": 40000.00, "security": "None"}
+ ],
+ "properties": [
+  {"situation": "House, 1 Sample Road, Colombo", "short_description": "House, 1 Sample Road", "date": "2026-01-20",
+   "cost": 1200000.00, "market_value": 1300000.00, "acquired_in_year": true, "how": "Purchase"}
+ ]}

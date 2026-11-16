@@ -1,0 +1,7 @@
+                          TRADE CONFIRMATION
+Transaction Date : 22/01/2026
+Sale of MANGO MOTORS PLC ( MNO.N0000 / LK0000N00003 )
+22/01/2026  20260100001       100     15.00    1,500.00     9.60   1.08   1.26   0.36    4.50   0.36    1,482.84  26/01/2026   0.00
+ Total                         100   14.8284    1,500.00     9.60   1.08   1.26   0.36    4.50   0.36    1,482.84               0.00
+Purchase Total                    0.00
+Sales Total                   1,482.84

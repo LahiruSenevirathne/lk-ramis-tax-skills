@@ -1,0 +1,41 @@
+                   Certificate No:/ Serial No :    WHT/2025/SEP/99999999
+                   Withholding Agent TIN :         134008059
+
+Dear Sir/Madam,
+
+               Certificate of Advance Income Tax (AIT) Deduction
+
+
+Name and address of the Bank/Financial             Nations Trust Bank, No.242,Union
+Institution:                                       Place, Colombo 02.
+Name and address of the Deposit Holder:        Mr. Example Depositor
+                                                   1 Sample Road
+                                                   Colombo Sri Lanka
+National Identity Card No / Passport No :          000000000V
+Tax Identification No :
+Interest/Discount paid for Period :from: 01-Sep-2025 to : 30-Sep-2025
+
+Gross amount of Interest/Discount: LKR 12,345.67
+
+ Account      Account      Account Title Interest/Dis     AIT    Amount of        Net
+  Type        Number                        count         Rate      AIT    Interest/Discoun
+                                           Amount                Deducted        t Paid
+                                          Subject to               (LKR)         (LKR)
+                                             AIT
+                                            (LKR)
+Fixed      300000000001     Mr. Example     10,000.00     10%     1,000.00        9,000.00
+Deposit                    Depositor
+Savings    200000000001     Mr. Example      2,345.67     10%      234.57        2,111.10
+Account                    Depositor
+
+
+Above Deducted AIT has paid to the Commissioner General of Inland Revenue as
+Follows.
+
+           500000000001                             14-Oct-2025
+Cheque/ Auto Payment Receipt No.                  Date of Payment
+
+
+Date : 22-Oct-2025
+
+     This is a computer generated advice which does not require an authorised signature

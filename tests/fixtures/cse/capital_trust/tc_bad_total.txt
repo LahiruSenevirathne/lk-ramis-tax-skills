@@ -1,0 +1,7 @@
+                          TRADE CONFIRMATION
+Transaction Date : 03/03/2026
+Purchase of EXAMPLE HOLDINGS PLC ( XYZ.N0000 / LK0000N00001 )
+03/03/2026  20260300001        10     12.00      120.00     0.77   0.09   0.10   0.03    0.36      121.35  05/03/2026   0.00
+ Total                          10   12.1350      120.00     0.77   0.09   0.10   0.03    0.36      121.35               0.00
+Purchase Total                  999.99
+Sales Total                       0.00

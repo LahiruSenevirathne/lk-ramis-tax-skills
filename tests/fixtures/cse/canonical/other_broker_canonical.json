@@ -1,0 +1,12 @@
+{
+  "source": "example_other_broker",
+  "note": "Synthetic. Rows Claude would hand-write from a broker without a parser.",
+  "trades": [
+    {"date": "2025-08-01", "side": "buy",  "code": "QRS.N0000", "name": "QUARTZ ROAD SERVICES PLC", "qty": 40, "net": 2024.00},
+    {"date": "2025-12-01", "side": "sell", "code": "QRS.N0000", "name": "QUARTZ ROAD SERVICES PLC", "qty": 40, "net": 2500.00}
+  ],
+  "holdings": [],
+  "dividends": [
+    {"date": "2025-10-01", "company": "QUARTZ ROAD SERVICES PLC", "code_root": "QRS", "gross": 20.00, "ait": 3.00, "net": 17.00}
+  ]
+}
